@@ -1,0 +1,23 @@
+measure_id,section,measure,measurable_target,SDG 3.4,SDG 3.9,SDG 6.3,SDG 6.4,SDG 7.2,SDG 7.3,SDG 9.4,SDG 11.1,SDG 11.3,SDG 11.5,SDG 11.6,SDG 11.7,SDG 11.b,SDG 12.2,SDG 12.5,SDG 13.1,SDG 13.2,SDG 15.1,SDG 15.5,SDG 15.9
+C1,Carbon,"All-electric, fabric-first buildings",energy use at most 35 kWh/m²/yr (homes) and 55 (workspace); space heating at most 15.,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,2,0,0,0
+C2,Carbon,Heat pumps and solar roofs,at least 35% on-site carbon cut beyond Building Regulations; any shortfall to net zero paid at £95 per tonne.,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0
+C3,Carbon,Be seen monitoring,measured use within 20% of design (my own figure).,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+C4,Carbon,Low-carbon structure and materials,"A1–A5 at most 500 kgCO₂e/m² (homes) and 600 (workspace), the GLA aspirational levels.",0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,2,0,0,0
+C5,Carbon,"Whole life carbon assessment, three times",A–C at most 800 (homes) and 970 (workspace).,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0
+R1,Circular economy,"Retain first, audit before demolition","95% of demolition waste reused, recycled or recovered.",0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0
+R2,Circular economy,Recycled and reused content,at least 20% recycled or reused content by value (the GLA's aim).,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0
+R3,Circular economy,Design for disassembly,passports covering elements worth at least 80% of cost.,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0
+R4,Circular economy,Waste on site and in use,95% beneficial use of excavation waste; 65% recycling of household waste and 75% of workspace waste by 2030.,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+B1,Biodiversity and greening,Baseline survey and metric,"at least 10% net gain, mostly on site; 30-year management plan.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+B2,Biodiversity and greening,Urban Greening Factor,UGF of at least 0.4. ugf_calculator.py tests an illustrative layout.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2
+B3,Biodiversity and greening,Habitat patches linked to the Olympic Park,at least 850 m² of semi-natural vegetation and wetland.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0
+B4,Biodiversity and greening,Trees and biodiverse roofs,"80 new trees (at least 50 with soil volume of two-thirds of canopy area or more) and 3,600 m² of green roof with at least 80 mm substrate.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0
+O1,Overheating and resilience,Passive-first homes,"100% of homes pass TM59 (2017) in DSY1, using Part O's modelling limits.",1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,0,0,0,0
+O2,Overheating and resilience,Extreme-heat stress test,"every failing room has documented fixes (shading, vents, fans); no home left without a plan.",1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,2,0,0,0,0
+O3,Overheating and resilience,Cool workspace,workspace passes TM52 with reported cooling demand.,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0
+O4,Overheating and resilience,Rain gardens and sustainable drainage,runoff at or below greenfield rate; at least 700 m² of rain gardens.,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,1,0,0
+O5,Overheating and resilience,Water efficiency,at most 105 litres per person per day in homes.,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H1,Health and wellbeing,Health Impact Assessment,assessment submitted; every identified harm has a named mitigation.,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+H2,Health and wellbeing,Clean air,air quality neutral.,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+H3,Health and wellbeing,Homes with outdoor space and light,100% of homes meet the D6 outdoor-space minimum.,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+H4,Health and wellbeing,Inclusive green public realm,every home has a step-free route to public green space within 200 m (my own figure).,2,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
