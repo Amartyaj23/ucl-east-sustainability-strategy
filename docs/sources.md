@@ -110,7 +110,7 @@ Research done on 7 October 2026. Every policy number, factor or date used anywhe
 |---|---|---|---|
 | Major development should be net zero-carbon; energy hierarchy be lean, be clean, be green, be seen | Policy SI 2 A | S2 | Page |
 | Minimum on-site reduction beyond Building Regulations | 35% (10% homes and 15% non-residential through energy efficiency alone) | S2 Policy SI 2 C; S8 paras 1.4 and 5.2 | Page (S2), Read (S8 confirms 35%) |
-| 10% and 15% efficiency-only figures | 10% homes, 15% non-residential | S2 Policy SI 2 C | Page only (not seen in S8) |
+| 10% and 15% efficiency-only figures | 10% homes, 15% non-residential, below Part L 2021 | S2 Policy SI 2 C; S8 paras 2.3 and 7.1 (efficiency measures alone) | Read (S8) |
 | Whole life-cycle carbon assessment for referable applications | Policy SI 2 F | S2; S6 front matter and para 1.1.1 | Read (S6) |
 | WLC assessment stages | Pre-application, planning submission (RIBA 2/3), post-construction | S6 para 2.3 | Read |
 | WLC benchmark, homes | A1–A5 below 850; B–C below 350; A–C below 1,200 kgCO₂e/m² GIA | S6 Table A2.1 | Read |
@@ -208,7 +208,6 @@ Wording copied from the official goal pages above. Several targets carry a deadl
 | 11.b | By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels |
 | 12.2 | By 2030, achieve the sustainable management and efficient use of natural resources |
 | 12.5 | By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse |
-| 12.7 | Promote public procurement practices that are sustainable, in accordance with national policies and priorities |
 | 13.1 | Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries |
 | 13.2 | Integrate climate change measures into national policies, strategies and planning |
 | 15.1 | By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements |
@@ -222,5 +221,5 @@ Wording copied from the official goal pages above. Several targets carry a deadl
 1. **Referral threshold.** The GLA page (S9) confirms that referable applications are defined by the Mayor of London Order 2008 and lists a new 50-home category from 11 May 2026. I did not read the Order itself, so I have not confirmed the older 150-home threshold. A scheme of about 300 homes is above either figure, so the strategy treats it as referable.
 2. **Local plan.** I did not read Newham's adopted Local Plan. S18 says Newham follows the London Plan UGF scores. Which borough a real site near UCL East would fall in is an assumption.
 3. **TM59 criteria.** I did not read TM59 (2017) itself. The 3% and 1% criteria come from a software vendor's restatement (S14). The numerical thresholds of the new bedroom criterion in TM59 (2026) are not verified; trade press reports numbers, which I have not used.
-4. **Single-source London Plan wording.** The SI 1, SI 2 (10%/15% split), SI 5, SI 12, SI 13, D5, D6, D8 and GG3 wording comes from GLA web pages read through a summarising tool. Corroboration from a second source is noted in Part B where I found one.
+4. **Single-source London Plan wording.** The SI 1, SI 5, SI 12, SI 13, D5, D6, D8 and GG3 wording comes from GLA web pages read through a summarising tool. Corroboration from a second source is noted in Part B where I found one.
 5. **Future Homes Standard.** Only the dates and requirement L3 are confirmed. I did not verify the carbon-reduction percentage.
